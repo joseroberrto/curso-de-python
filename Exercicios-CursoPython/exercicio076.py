@@ -12,3 +12,4 @@ for pos in range(0 , len(produtos)) :
 		print(f'{produtos[pos]:.<50}', end='')
 	else : # preços estao na posicao impar
 		print(f'R${produtos[pos]:>1.2f}')
+print('FIM')
