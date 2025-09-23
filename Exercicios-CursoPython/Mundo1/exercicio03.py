@@ -1,4 +1,4 @@
-#Verificador de vogais
+#Verificador de vogais usando metódo count 
 frase = str(input('Digite uma frase :')).upper()
 
 print(f'A quantidade de vogais A na frase são {frase.count('A')}')
