@@ -70,6 +70,6 @@ por oferecerem conteúdos gratuitos e de altíssima qualidade, que tornam o apre
 Quer bater um papo sobre Python, tecnologia ou trocar experiências sobre o curso?  
 Fique à vontade pra me chamar, vai ser um prazer conversar! 😄  
 
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn](https://www.linkedin.com/in/joseroberrto)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn](https://www.linkedin.com/in/jos%C3%A9-roberto-80b02a383/)
 
 ---
