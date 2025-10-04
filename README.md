@@ -1,4 +1,4 @@
-# 🐍 Curso de Python – Exercícios & Códigos (Guanabara / Curso em Vídeo)
+# 🐍 Curso de Python – Exercícios & Códigos (Curso em Vídeo)
 
 Este repositório reúne todos os **códigos, exercícios e desafios** desenvolvidos por mim durante o curso de **Python** ministrado pelo professor **Gustavo Guanabara** no canal **Curso em Vídeo**.
 
